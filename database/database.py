@@ -36,7 +36,7 @@ class SidDataBase:
         data = await self.channel_button_link_data.find_one({})
         if data:
             return data.get('button_name'), data.get('button_link')
-        return 'Join Channel', 'https://t.me/K_Drama_In_Hindi_English'
+        return 'Join Channel', 'https://t.me/HellFire_Academy'
     
     
     # DELETE TIMER SETTINGS

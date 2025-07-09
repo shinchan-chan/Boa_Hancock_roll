@@ -257,7 +257,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 
                 if len(button) != 2:
                     markup = [[InlineKeyboardButton(f'• sᴇᴛ ᴄʜᴀɴɴᴇʟ ʙᴜᴛᴛᴏɴ •', callback_data='setcb')]]
-                    return await set_msg.reply("<b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴠᴀʟɪᴅ ᴀʀɢᴜᴍᴇɴᴛs.\nғᴏʀ ᴇxᴀᴍᴘʟᴇ:\n<blockquote><code>• ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ • - https://t.me/Official_Crunchyroll_In_Hindi</code></blockquote>\n\n<i>ᴛʀʏ ᴀɢᴀɪɴ ʙʏ ᴄʟɪᴄᴋɪɴɢ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ..</i></b>", reply_markup=InlineKeyboardMarkup(markup), disable_web_page_preview = True)
+                    return await set_msg.reply("<b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴠᴀʟɪᴅ ᴀʀɢᴜᴍᴇɴᴛs.\nғᴏʀ ᴇxᴀᴍᴘʟᴇ:\n<blockquote><code>• ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ • - https://t.me/HellFire_Academy</code></blockquote>\n\n<i>ᴛʀʏ ᴀɢᴀɪɴ ʙʏ ᴄʟɪᴄᴋɪɴɢ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ..</i></b>", reply_markup=InlineKeyboardMarkup(markup), disable_web_page_preview = True)
                 
                 button_name = button[0].strip(); button_link = button[1].strip()
                 button_preview = [[InlineKeyboardButton(text=button_name, url=button_link)]]

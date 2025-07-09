@@ -39,7 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒αᴍᴀ</a>\n» ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+jaGChj0sIl42NGY9>𝐇ᴇʟʟғɪʀᴇ ᴍᴏᴠɪᴇ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒ᴀᴍᴀ ֟፝</a></blockquote></b>"""
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒αᴍᴀ</a>\n» ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+jaGChj0sIl42NGY9>𝐇ᴇʟʟғɪʀᴇ 𝐌ᴏᴠɪᴇ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒ᴀᴍᴀ ֟፝</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
